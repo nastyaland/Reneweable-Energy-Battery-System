@@ -12,3 +12,8 @@ This yielded the following results:
 ## Wind Modelling
 Afterwards the wind speeds were analyzed and using the Tesup Atlas wind turbine yielded the following energy plot: 
 ![System Wind Energy Generation](Plots/dc_output_wind.svg)
+
+## System Modelling
+The system was modelled based of the battery efficiency curve over a temperature range and an efficiency of 90% for the inverter was used.
+This gave the following yearly energy generation: 
+![System Wind Energy Generation](Plots/combined_pv_wind_monthly.svg)
