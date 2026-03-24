@@ -1,7 +1,8 @@
 # Reneweable-Energy-Battery-System
 Using Great Power polar battery cell, a simulation of a reneweable energy system was produced. Solar and Wind energy was modelled using local weather data from the 
 town of Moosonee in Northern Ontario. Battery efficiency was taken and combined with 385W solar panels and 10kW wind turbine. The following results were obtained.
-![Batteries](Plots/greatPower Battery.png)
+
+![Batteries](Plots/greatPower%20Battery.png)
 
 ## Solar Modelling
 The results from the simulation of the wind and solar panel systems are shown bellow: 
